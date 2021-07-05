@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+.container {
+  width: 50%;
+  margin: 100px auto;
+  display: block;
+}
+.container h1 {
+  text-align: center;
+}
+#btn {
+  display: block;
+  margin: 50px auto;
+}
